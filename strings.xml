@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SID_CHALLENGE</string>
+    <string name="exit">EXIT</string>
+    <string name="main">DATASET PROCESSING</string>
+    <string name="dtset">VIEW DATASET</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/main"
+    app:showAsAction="ifRoom|withText"
+    android:title="@string/main" />
+<item
+    android:id="@+id/dtset"
+    app:showAsAction="ifRoom|withText"
+    android:title="@string/dtset" />
+<item
+    android:id="@+id/exit"
+    app:showAsAction="ifRoom|withText"
+    android:title="@string/exit" />
+</menu>
